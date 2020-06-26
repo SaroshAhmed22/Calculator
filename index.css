@@ -1,0 +1,20 @@
+
+input{
+    outline: none;
+    padding: 20px 20px 20px 50px;
+    background: rgba(218, 29, 29, 0.144);
+    border: none
+}
+button{
+    padding: 20px 20px 20px 20px;
+    background-color: yellow;
+    border: none;
+    outline: none;
+}
+
+
+.box{
+    background-color: yellow;
+
+}
+
